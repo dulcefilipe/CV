@@ -1,0 +1,165 @@
+body {
+	size: 90%;
+	text-align: left;
+	font-family: verdana;
+	background-color: white;
+	color: #444445;
+	font-size: 20px;
+}
+
+header {
+	height: 213px;
+	width: auto;
+	background-color: black;
+}
+
+.lema {
+	margin-top: 0;
+	float: center;
+	margin-left: 100px;
+}
+
+h1 {
+	font-size: 70px;
+	color: white;
+	text-shadow: 2px 2px 2px gray;
+	padding-right: 350px;
+	margin-top: 50px;
+	float: right;
+}
+
+nav {background-color: gray;
+	height: 28px;
+}
+
+.nav{ 
+margin-top: 150px;
+padding: 30px;
+text-decoration: none; 
+color: white;
+padding-left: 80px;
+}
+
+.nav a:hover {color: red;
+}
+
+h2 {
+	font-size: 50px;
+	color: #969696;
+	margin-top: 40px;
+	text-shadow: 3px 2px 2px gray; 
+	text-align: center;
+}
+
+.raparigas {
+	text-decoration: none;
+	color: #969696;	
+}
+.raparigas:hover {
+	color: blue;
+	}
+
+
+h3{
+	font-size: 40px;
+	color: #B4B4B4;
+	text-shadow: 3px 2px 2px gray;
+	margin-left: 30px;
+	text-align: center;
+}
+
+p {
+	font-size: 20px;
+	text-align: left;
+	margin-left: 50px;
+}
+
+
+.img {
+	border-radius: 10px;
+}
+
+.motivacao {
+	text-align: center;
+}
+
+.experiencia{
+	text-align: center;
+	padding-top: 50px;
+	padding-bottom: 10px;
+}
+
+.funcoes {
+	list-style: none;
+	text-align: left;
+	margin-left: 550px;
+	margin-top: 15px;
+}
+
+#table{
+	padding-top: 30px;
+}
+
+.formacao{
+	padding-top: 60px;
+}
+
+#formação{
+	position: relative;
+}
+
+.destaque {
+	text-decoration: none;
+	color: #323232; 
+}
+.destaque:hover {
+	color: blue;
+	}
+
+#destaque{
+	padding-top: 150px;
+}
+
+.outras{
+	margin-top: 50px;
+}
+
+#outras{padding-top: 120px;
+
+}
+
+.formacoes{
+	margin-left: 600px;
+}
+
+footer{padding-top: 0;
+}
+
+p.redessociais { 
+	background-color: #CC0000;
+	border-radius: 5px;
+	color: white;
+	font-size: 20px;
+	text-align: center;
+	margin-left: 0;
+	}
+
+
+.redes {
+	list-style: none;
+	text-align: center;
+	}
+
+.redes li{
+	display: inline;
+}
+
+.redes a{
+	color: #4e4f4f;
+	font-size: 30px;
+}
+
+.redes a:hover {
+	color: #CC0000;
+}
+
